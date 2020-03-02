@@ -1,0 +1,81 @@
+h1{
+    color: lightcoral;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Georgia',sans-serif;
+}
+Toutes les modifications de texte
+
+h2{background-color: lawngreen;}
+
+#photodeprofile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border-image: 50px coral;
+}
+
+#localisation{
+    height: 90px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+#uni{
+    height: 90px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+#wagon{
+    height: 90px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+#essec{
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+#logoinsta{
+        height: 70px;
+        width: 70px;
+        border-radius: 20px;
+        margin: 20px;
+}
+
+#socialnetwork{
+    height: 90px;
+    width: 90px;
+    border-radius: 20px;
+}
+#linkedin{
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+    margin: 20px;
+}
+#FB{
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+body{
+        font-family:'Roboto',sans-serif;
+    }
+.card-white :hover{
+text-decoration-color: darkmagenta crimson;
+}
+
+div{
+    background-image: url(images/Background\ website.jpg);
+    text-align: center;
+    margin: 60px;
+    padding: 50px;
+    width: 700px;
+    border-radius: 25px;
+}
